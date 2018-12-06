@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HeroesHateTowers</string>
+    <string name="plus_pengiun">+ Pengiun</string>
+    <string name="Heading">Heroes Hate Towers</string>
+    <string name="StartButton">Start</string>
+    <string name="EndButton">Leave</string>
+</resources>
